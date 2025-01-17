@@ -7,4 +7,4 @@ end
 
 gem 'sinatra', '~> 1.4', '>= 1.4.8'
 gem 'rake', '~> 11.3'
-gem 'webrick'
+gem 'puma'
